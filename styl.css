@@ -1,0 +1,53 @@
+body {
+ font-family: Helvetica;
+ }
+ #lewy {
+	 background-color: DarkGreen;
+	 color: white;
+	 height: 700px;
+	 width: 25%;
+	 float: left; 
+	 
+ }
+ #p1 {
+	 background-color: Green;
+	 height: 100px;
+	 width: 75%;
+	 text-align: center;
+	 float: left;
+ }
+ #p2 {
+	 background-color: Green;
+	 height:300px;
+	 width: 75%;
+	 float: left;
+ }
+ 
+ #p3 {
+	 background-color: Green;
+	 height: 300px;
+	 width: 75%;
+	 text-align: center;
+	 float: left;
+ }
+ #stopka {
+	 background-color: Green;
+	 text-align: center;
+	 padding: 100px;
+	 clear: both;
+ }
+ h1 {
+	 letter-spacing: 5px;
+	 
+ }
+ form {
+	 margin: 30px;
+	 line-height: 3;
+ }
+ form:hover {
+	 background-color: Green
+	 
+	 
+ }
+	 
+	 
